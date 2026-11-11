@@ -1,4 +1,4 @@
 package pedidos;
 
-public class InformacoesPedidos {
+public class InformacoesPedidoService {
 }
